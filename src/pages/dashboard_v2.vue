@@ -7,7 +7,7 @@
             <q-item class="q-pb-none q-pt-xs">
               <q-item-section>
                 <q-item-label class="text-h4" style="font-weight: 500;letter-spacing: 3px;">900</q-item-label>
-                <q-item-label :class="!$q.dark.isActive? 'text-grey-7':'text-white'" style="letter-spacing: 1px;">Total Orders</q-item-label>
+                <q-item-label :class="!$q.dark.isActive? 'text-grey-7':'text-white'" style="letter-spacing: 1px;">Test</q-item-label>
               </q-item-section>
 
               <q-item-section side>
